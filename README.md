@@ -28,7 +28,7 @@ A deep learning framework combining BioBERT, Graph Neural Networks, and a Knowle
 
 ---
 
-# 📌 Projects
+## 📌 Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -40,16 +40,16 @@ A deep learning framework combining BioBERT, Graph Neural Networks, and a Knowle
 | [Smart Alarm Clock](https://github.com/mayeshakader/Alarm-Clock-Must-Rise-Up-) | Arduino · C++ | PIR motion-sensing alarm that verifies you're awake |
 
 ---
-# 👯I'm looking to collaborate on
+## 👯I'm looking to collaborate on
  — biomedical NLP, drug discovery ML, or full-stack web projects
  
-# 📫 How to reach me
+## 📫 How to reach me
 
 - 💼 [www.linkedin.com/in/mayesha-kader-2a1a1a399](#)
 - 📧 [mayeshakader13@gmail.com.com](#) 
 *Open to research collaborations and opportunities in ML/AI.*
 
-#😄Pronouns
+## 😄Pronouns
  — she/her
 
  - ⚡ Fun fact: INTJ who reads books, watches films, and has a long list of countries to explore. 
